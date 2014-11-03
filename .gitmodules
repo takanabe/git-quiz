@@ -1,0 +1,3 @@
+[submodule "01_commit_3x"]
+	path = 01_commit_3x
+	url = git@github.com:takanabe/git-quiz_01_commit_3x.git
