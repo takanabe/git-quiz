@@ -4,3 +4,6 @@
 [submodule "02_amend_commit_log"]
 	path = 02_amend_commit_log
 	url = git@github.com:takanabe/git-quiz_02_amend_commit_log.git
+[submodule "03_clean_up_commit"]
+	path = 03_clean_up_commit
+	url = git@github.com:takanabe/git-quiz_03_clean_up_commit.git

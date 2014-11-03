@@ -17,8 +17,9 @@ $ git submodule update
 ### 初級 : 基本のコマンドを学ぶ
 ----------------------
 #### ローカルレポジトリの操作
- * [01_commit_3x : コミットを3回実施する問題](01_commit_3x.md)  
- * [02_amend_commit_log : 直近のコミット、コミットログを修正する問題](02_amend_commit_log.md)
+ * [01_commit_3x : コミットを3回実施する](01_commit_3x.md)  
+ * [02_amend_commit_log : 直近のコミット、コミットログを修正する](02_amend_commit_log.md)
+ * [03_clean_up_commit : 過去のコミットをまとめて修正する、綺麗にまとめる](03_clean_up_commit.md)
  
 
 
