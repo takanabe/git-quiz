@@ -1,3 +1,6 @@
 [submodule "01_commit_3x"]
 	path = 01_commit_3x
 	url = git@github.com:takanabe/git-quiz_01_commit_3x.git
+[submodule "02_amend_commit_log"]
+	path = 02_amend_commit_log
+	url = git@github.com:takanabe/git-quiz_02_amend_commit_log.git

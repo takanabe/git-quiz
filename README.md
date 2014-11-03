@@ -4,6 +4,15 @@ git-quiz
 職場の人にgitの使い方を効率良く学習してもらうために作りました。  
 git初心者〜中級者の方は練習に使ってください。
 
+### 使い方
+----------------------
+git-quizをダウンロードしたいディレクトリにて以下のコマンドを実行
+
+```
+$ git clone git@github.com:takanabe/git-quiz.git
+$ git submodule init
+$ git submodule update
+```
 
 ### 初級 : 基本のコマンドを学ぶ
 ----------------------
