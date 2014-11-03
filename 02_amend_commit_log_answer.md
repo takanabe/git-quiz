@@ -36,3 +36,10 @@ commit.txtに5th commitの文字列を追加し、直近のコミットに変更
  Date: Mon Nov 3 10:19:17 2014 +0900
  1 file changed, 2 insertions(+)
 ```
+
+### Link
+--------------------
+ * Previous: [01_commit_3x : コミットを3回実施する問題](01_commit_3x.md)  
+ * Next: [03_clean_up_commit : 過去のコミットをまとめて修正する、綺麗にまとめる](03_clean_up_commit.md)
+ * 目次: [README](README.md)
+ 

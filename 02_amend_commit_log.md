@@ -1,4 +1,4 @@
-02_amend_commit_log
+02_amend_commit_log : 直近のコミット、コミットログを修正する
 ========
 
 ### 問題2-1
@@ -25,12 +25,12 @@ commit.txtに5th commitの文字列を追加し、直近のコミットに変更
 ### 解答
 --------------------
 
-[問題2−1の解答](02_amend_commit_log_answer.md#ans3)  
+[問題2−1の解答](02_amend_commit_log_answer.md#ans2-1)  
 [問題2−2の解答](02_amend_commit_log_answer.md#ans2-2)  
 
 ### Link
 --------------------
  * Previous: [01_commit_3x : コミットを3回実施する問題](01_commit_3x.md)  
- * Next: [03_cleanup_history : 過去のコミットをまとめて修正する、綺麗にまとめる](03_cleanup_history.md)
+ * Next: [03_clean_up_commit : 過去のコミットをまとめて修正する、綺麗にまとめる](03_clean_up_commit.md)
  * 目次: [README](README.md)
  
