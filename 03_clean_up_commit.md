@@ -11,9 +11,7 @@
 
 ### 問題3-2
 --------------------
-無事修正が終わったと思いきや、コミットログコメントにtypeがあった。  
-このままだと格好が悪いので、`4&5th commmit` を`4&5th commit`に修正したい。
-02_amend_commit_logのgitレポジトリをAfter1からAfter2の状態に修正せよ。
+無事After1の状態にgitレポジトリを変更する事ができたが、まめにコミットをしすぎたためコミットログが汚くなってしまった。そこで、B',C',D'のコミットを1つにまとめることにした。03_clean_up_commitのgitレポジトリをAfter1からAfter2の状態にせよ。
 
 ![quiz03-2](images/03-2_clean_up_commit.png)
 
@@ -26,6 +24,6 @@
 ### Link
 --------------------
  * Previous: [02_amend_commit_log : 直近のコミット、コミットログを修正する問題](02_amend_commit_log.md)
- * Next: 
+ * Next: [04_handle_branch : ブランチを使いこなす](04_handle_branch.md) 
  * 目次: [README](README.md)
  
