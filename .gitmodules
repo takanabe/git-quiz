@@ -1,12 +1,12 @@
 [submodule "01_commit_3x"]
 	path = 01_commit_3x
-	url = https://github.com:takanabe/git-quiz_01_commit_3x.git
+	url = https://github.com/takanabe/git-quiz_01_commit_3x.git
 [submodule "02_amend_commit_log"]
 	path = 02_amend_commit_log
-	url = https://github.com:takanabe/git-quiz_02_amend_commit_log.git
+	url = https://github.com/takanabe/git-quiz_02_amend_commit_log.git
 [submodule "03_clean_up_commit"]
 	path = 03_clean_up_commit
-	url = https://github.com:takanabe/git-quiz_03_clean_up_commit.git
+	url = https://github.com/takanabe/git-quiz_03_clean_up_commit.git
 [submodule "04_handle_branch"]
 	path = 04_handle_branch
-	url = https://github.com:takanabe/git-quiz_04_handle_branch.git
+	url = https://github.com/takanabe/git-quiz_04_handle_branch.git
