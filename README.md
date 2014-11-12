@@ -28,7 +28,7 @@ git-quizをダウンロードしたいディレクトリにて以下のコマン
 ```
 $ git clone --recursive https://github.com/takanabe/git-quiz.git
 $ cd git-quiz
-$ git submodule foreach git pull origin master
+$ git submodule foreach git checkout master
 ```
 
 ダウンロードしたレポジトリにはそれぞれの問題に対応するディレクトリを用意しました。ディレクトリの中には問題に必要なファイルが全て詰め込まれている（問題中のBeforeの状態になっています）ので、苦手な問題を繰り返し解いて快適なGit lifeを送くれるように頑張ってください！
