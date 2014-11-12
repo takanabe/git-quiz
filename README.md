@@ -18,7 +18,7 @@ $ git config --global user.name Takayuki WATANABE
 $ git config --global user.email takanabe.w@gmail.com
 $ git config --global color.ui auto
 $ git config --global core.editor vim
-$ git config --global alias.graph 'log --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cblue%cn %Creset%s' --date=short'
+$ git config --global alias.graph "log --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cblue%cn %Creset%s' --date=short"
 ```
 
 ## 使い方
